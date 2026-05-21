@@ -367,27 +367,27 @@ graph TB
     classDef db fill:#ECEFF1,stroke:#37474F,stroke-width:2px;
 
     %% --- Node Definitions ---
-    subgraph Client Sandbox (Flutter App)
+    subgraph "Client Sandbox (Flutter App)"
         Alice[Alice Client App]:::client
         Bob[Bob Client App]:::client
     end
 
-    subgraph Exposed Cloud Host Routing (Render Infrastructure)
+    subgraph "Exposed Cloud Host Routing (Render Infrastructure)"
         Guni[Gunicorn WSGI Server<br/>Port 8000 / HTTP API]:::gateway
         Daph[Daphne ASGI Server<br/>Port 8001 / WSS Signaling]:::gateway
     end
 
-    subgraph Core Async Processing
+    subgraph "Core Async Processing"
         Redis[Redis Task Queue & Broker<br/>PubSub Channels]:::broker
         Celery[Celery Threat Engine<br/>Security Workers]:::broker
     end
 
-    subgraph Persistence Layer
+    subgraph "Persistence Layer"
         Postgres[(PostgreSQL Database<br/>Relational Schemas)]:::db
         Disk[Server Media Filesystem<br/>media/encrypted/]:::db
     end
 
-    subgraph Direct Zero-Trust Media Relaying
+    subgraph "Direct Zero-Trust Media Relaying"
         COTURN((COTURN TURN Server<br/>STUN/TURN RELAY)):::client
     end
 
