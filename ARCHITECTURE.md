@@ -1,8 +1,4 @@
 # SecureVault: Production System Architecture Specification
-**Document Version:** 1.0.0  
-**Classification:** Confidentially Restricted  
-**Author:** Principal Software Architect  
-
 ---
 
 ## 🏛️ Executive Summary
