@@ -186,3 +186,8 @@ For the full technical write-up, see [ARCHITECTURE.md](ARCHITECTURE.md). It cove
 ## Project Status
 
 SecureVault is a full-stack academic and engineering project focused on secure storage, authenticated sharing, and practical security monitoring. It is intended as a strong foundation for further production hardening, deployment automation, and expanded test coverage.
+
+## Project Walkthrough
+
+Watch the full project walkthrough here: [SecureVault Project Walkthrough](https://drive.google.com/file/d/1y4b4aSa9ctc5ZAFxg7vi9E7-x_ZrXq_2/view?usp=sharing)
+
