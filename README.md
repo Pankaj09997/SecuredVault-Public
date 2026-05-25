@@ -190,4 +190,7 @@ SecureVault is a full-stack academic and engineering project focused on secure s
 ## Project Walkthrough
 
 Watch the full project walkthrough here: [SecureVault Project Walkthrough](https://drive.google.com/file/d/1y4b4aSa9ctc5ZAFxg7vi9E7-x_ZrXq_2/view?usp=sharing)
+<img src="https://drive.google.com/thumbnail?id=1y4b4aSa9ctc5ZAFxg7vi9E7-x_ZrXq_2&sz=w1200" alt="SecureVault project walkthrough preview" width="720">
+
+
 
