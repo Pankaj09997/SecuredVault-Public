@@ -187,10 +187,19 @@ For the full technical write-up, see [ARCHITECTURE.md](ARCHITECTURE.md). It cove
 
 SecureVault is a full-stack academic and engineering project focused on secure storage, authenticated sharing, and practical security monitoring. It is intended as a strong foundation for further production hardening, deployment automation, and expanded test coverage.
 
-## Project Walkthrough
+## 📺 Project Walkthrough
 
-Watch the full project walkthrough here: [SecureVault Project Walkthrough](https://drive.google.com/file/d/1y4b4aSa9ctc5ZAFxg7vi9E7-x_ZrXq_2/view?usp=sharing)
-<img src="https://drive.google.com/thumbnail?id=1y4b4aSa9ctc5ZAFxg7vi9E7-x_ZrXq_2&sz=w1200" alt="SecureVault project walkthrough preview" width="720">
+> Watch the full demo covering encrypted vault storage, SecureShare peer-to-peer transfer, WebRTC data channels, and the security monitoring layer.
+
+<a href="https://drive.google.com/file/d/1y4b4aSa9ctc5ZAFxg7vi9E7-x_ZrXq_2/view?usp=sharing">
+  <img
+    src="https://drive.google.com/thumbnail?id=1y4b4aSa9ctc5ZAFxg7vi9E7-x_ZrXq_2&sz=w1200"
+    alt="SecureVault project walkthrough — click to watch"
+    width="720"
+  />
+</a>
+
+▶ **[Watch on Google Drive](https://drive.google.com/file/d/1y4b4aSa9ctc5ZAFxg7vi9E7-x_ZrXq_2/view?usp=sharing)**
 
 
 
