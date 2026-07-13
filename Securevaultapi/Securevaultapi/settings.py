@@ -42,7 +42,7 @@ os.makedirs(ENCRYPTED_FILES_DIR,exist_ok=True)
 # See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = "django-insecure-#g!0w=x(yw8kdnxl9qd1%&rjtn7j(l3qapg(%6*4#=dawcp_^3"
+SECRET_KEY = "*****************************"
 
 # SECURITY WARNING: don't run with debug turned on in production!
 # We define DEBUG here and let BASE_URL be derived from it.
