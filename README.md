@@ -1,4 +1,4 @@
-# SecureVault
+# SecuredVault
 
 A file vault with end-to-end encryption. Files are encrypted and decrypted on the user's device only. The backend stores ciphertext and can't decrypt it.
 
