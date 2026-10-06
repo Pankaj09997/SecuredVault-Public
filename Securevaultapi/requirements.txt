@@ -1,0 +1,39 @@
+# Django core
+Django==5.2.1
+djangorestframework==3.16.0
+djangorestframework_simplejwt==5.5.0
+django-environ==0.12.0
+django-cors-headers>=4.3.0
+
+# Database
+psycopg2-binary>=2.9.10
+dj-database-url>=2.1.0
+sqlparse==0.5.3
+
+# ASGI & Channels (WebSocket support)
+daphne>=4.1.0
+channels>=4.0.0
+channels-redis>=4.2.0
+
+# Celery (async tasks)
+celery>=5.3.0
+redis>=5.0.0
+django-redis>=5.4.0
+
+# Security & Encryption
+pycryptodome>=3.20.0
+PyJWT==2.9.0
+
+# Image handling
+pillow==11.2.1
+
+# ASGI
+asgiref==3.8.1
+
+# Geo & Location
+geopy>=2.4.0
+pytz>=2024.1
+
+# HTTP requests
+requests>=2.31.0
+whitenoise>=6.6.0

@@ -1,0 +1,10 @@
+.env
+*.env
+__pycache__/
+*.py[cod]
+db.sqlite3
+dump.rdb
+celerybeat-schedule.db
+media/
+staticfiles/
+Securevaultapi/Securevaultapi/settings.py
